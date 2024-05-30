@@ -1,0 +1,9 @@
+{
+	"name": "veeramallademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "331a72c1-602d-4d68-8acd-76c577e91be6",
+		"tenantId": "d73b3e65-96bf-4be8-b7c0-8e75d3bcde14"
+	}
+}
